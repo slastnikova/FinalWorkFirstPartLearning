@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\bin\Debug\net6.0\FinalProjectirstPartLearning.exe
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\bin\Debug\net6.0\FinalProjectirstPartLearning.deps.json
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\bin\Debug\net6.0\FinalProjectirstPartLearning.runtimeconfig.json
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\bin\Debug\net6.0\FinalProjectirstPartLearning.dll
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\bin\Debug\net6.0\FinalProjectirstPartLearning.pdb
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.AssemblyInfo.cs
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.dll
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\refint\FinalProjectirstPartLearning.dll
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.pdb
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\FinalProjectirstPartLearning.genruntimeconfig.cache
+C:\Users\user1\Desktop\morework\FinalProjectirstPartLearning\obj\Debug\net6.0\ref\FinalProjectirstPartLearning.dll
